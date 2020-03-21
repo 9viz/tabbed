@@ -1,10 +1,14 @@
 /* See LICENSE file for copyright and license details. */
 
 /* font */
-// static const char font[]        = "Share Tech Mono:pixelsize=13";
+static const char font[]        = "monospace:pixelsize=13";
 
-/* themes */
-#include "/home/viz/usr/local/share/cache/tm/tabbed.h"
+static const char* normbgcolor  = "#a9a9a1";
+static const char* normfgcolor  = "#101412";
+static const char* selbgcolor   = "#e7e7d4";
+static const char* selfgcolor   = "#1c1e1d";
+static const char* urgbgcolor   = "#e7e7d4";
+static const char* urgfgcolor   = "#101412";
 
 static const char before[]      = "<";
 static const char after[]       = ">";
