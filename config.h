@@ -6,7 +6,7 @@ static const char font[]        = "monospace:pixelsize=12";
 static const char* normbgcolor  = "#a9a9a1";
 static const char* normfgcolor  = "#101412";
 static const char* selbgcolor   = "#ffffea";
-static const char* selfgcolor   = "#000000";
+static const char* selfgcolor   = "#1c1ced";
 static const char* urgbgcolor   = "#e7e7d4";
 static const char* urgfgcolor   = "#101412";
 
